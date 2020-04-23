@@ -1,0 +1,13 @@
+C:\codebitsacademy\classworks\LabTask9\Package\obj\Debug\netcoreapp3.1\Package.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\LabTask9\Package\obj\Debug\netcoreapp3.1\Package.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\LabTask9\Package\obj\Debug\netcoreapp3.1\Package.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\LabTask9\Package\obj\Debug\netcoreapp3.1\Package.AssemblyInfo.cs
+C:\codebitsacademy\classworks\LabTask9\Package\bin\Debug\netcoreapp3.1\Package.exe
+C:\codebitsacademy\classworks\LabTask9\Package\bin\Debug\netcoreapp3.1\Package.deps.json
+C:\codebitsacademy\classworks\LabTask9\Package\bin\Debug\netcoreapp3.1\Package.runtimeconfig.json
+C:\codebitsacademy\classworks\LabTask9\Package\bin\Debug\netcoreapp3.1\Package.runtimeconfig.dev.json
+C:\codebitsacademy\classworks\LabTask9\Package\bin\Debug\netcoreapp3.1\Package.dll
+C:\codebitsacademy\classworks\LabTask9\Package\bin\Debug\netcoreapp3.1\Package.pdb
+C:\codebitsacademy\classworks\LabTask9\Package\obj\Debug\netcoreapp3.1\Package.dll
+C:\codebitsacademy\classworks\LabTask9\Package\obj\Debug\netcoreapp3.1\Package.pdb
+C:\codebitsacademy\classworks\LabTask9\Package\obj\Debug\netcoreapp3.1\Package.genruntimeconfig.cache

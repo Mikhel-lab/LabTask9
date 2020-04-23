@@ -1,0 +1,4 @@
+C:\codebitsacademy\classworks\LabTask9\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\LabTask9\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\LabTask9\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\LabTask9\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.AssemblyInfo.cs
